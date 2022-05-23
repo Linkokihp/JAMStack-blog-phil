@@ -1,10 +1,14 @@
 ---
 title: PHILS TEST
-description: JAMstack rocks
+description: JAMstack rocks The provided files are finished pages using regular
+  HTML and CSS. The HTML files can be broken down into peices, and used to build
+  out the different templates and partial files using a templating language of
+  your choice.
 author: Phil
 date: 2022-05-23T07:40:07.785Z
 tags:
   - post
+  - featured
 image: /assets/blog/trololo.png
 imageAlt: Trolololo
 ---
